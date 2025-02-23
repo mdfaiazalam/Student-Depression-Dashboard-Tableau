@@ -8,5 +8,9 @@ This Power BI Dashboard provides key insights into the factors affecting student
 * Academic Pressure vs. Student Count 📖
 * Financial Stress vs. Student Count 💰
 # 🛠 Tools & Technologies
-* Power BI for interactive visualization
+* Tableau for interactive visualization
 * Data Analysis for insights
+# 📈 Key Insights
+* Students with less sleep tend to have lower study satisfaction.
+* High academic pressure and financial stress significantly impact student well-being.
+* Study hours have a mixed effect on student satisfaction levels.
