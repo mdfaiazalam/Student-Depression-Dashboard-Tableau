@@ -7,3 +7,6 @@ This Power BI Dashboard provides key insights into the factors affecting student
 * Study Satisfaction vs. Student Count 😊
 * Academic Pressure vs. Student Count 📖
 * Financial Stress vs. Student Count 💰
+# 🛠 Tools & Technologies
+* Power BI for interactive visualization
+* Data Analysis for insights
